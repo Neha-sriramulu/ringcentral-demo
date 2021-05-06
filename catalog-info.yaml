@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ringcentral-app01"
+  description: "RC API 1.00"
+  annotations:
+    github.com/project-slug: Neha-sriramulu/ringcentral-demo
+    backstage.io/techdocs-ref: url:https://github.com/Neha-sriramulu/ringcentral-demo
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Neha-sriramulu"

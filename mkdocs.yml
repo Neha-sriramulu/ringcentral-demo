@@ -1,0 +1,8 @@
+site_name: "ringcentral-app01"
+site_description: "RC API 1.00"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
